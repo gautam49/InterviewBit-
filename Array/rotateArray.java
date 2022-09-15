@@ -1,8 +1,7 @@
+/* leetcode 189==>https://leetcode.com/problems/rotate-array/ */
 package com.InterviewBit.Array;
 import java.util.Arrays;
 import java.util.Scanner;
-/* leetcode 189==>https://leetcode.com/problems/rotate-array/ */
-
 public class rotateArray {
     public static void Rotate(int[] num,int n)
     {
